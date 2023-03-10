@@ -1,1 +1,1 @@
-FROM golang:apline
+FROM golang:alpine
