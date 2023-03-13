@@ -1,2 +1,2 @@
-FROM wrh-test-registry.cn-hangzhou.cr.aliyuncs.com/ns/golang:alpine
-RUN sleep 220
+FROM wrh-test-registry.cn-beijing.cr.aliyuncs.com/ns/golang:alpine
+RUN sleep 60
